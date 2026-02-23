@@ -1,1 +1,1 @@
-{"stocks": [{"symbol": "AAPL", "name": "苹果", "price": 264.58, "change": -1.85, "changePct": -0.7}, {"symbol": "META", "name": "Meta", "price": 655.66, "change": -5.41, "changePct": -0.83}, {"symbol": "GOOGL", "name": "谷歌", "price": 314.98, "change": 2.02, "changePct": 0.64}], "updated": "2026-02-23 22:00"}
+{"stocks": [{"symbol": "AAPL", "name": "苹果", "price": 265.06, "change": 0, "changePct": 0}, {"symbol": "META", "name": "Meta", "price": 648.3, "change": 0, "changePct": 0}], "updated": "2026-02-23 23:00"}
